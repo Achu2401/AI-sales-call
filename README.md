@@ -95,7 +95,7 @@ The Voice-Powered Sales Call Assistant is an AI-driven tool designed to enhance 
 
 5. **Run the Application**:
    ```bash
-   python main.py
+   streamlit run app.py
    ```
 
 6. **Prepare Data**:
