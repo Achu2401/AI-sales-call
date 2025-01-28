@@ -133,10 +133,6 @@ The Voice-Powered Sales Call Assistant is an AI-driven tool designed to enhance 
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Acknowledgments
 - **Vosk** for speech-to-text capabilities.
